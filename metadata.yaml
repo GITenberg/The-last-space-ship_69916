@@ -1,0 +1,33 @@
+_repo: The-last-space-ship_69916
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    - Fitzgerald, William
+    - Jenkins, Will F.
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: https://en.wikipedia.org/wiki/Murray_Leinster
+description: ''
+gutenberg_issued: '2023-01-31'
+identifiers:
+  gutenberg: '69916'
+language: en
+pgterms:marc905: 20220514133930leinster
+pgterms:marc906: '1949'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net.
+publication_note: 'United States: Galaxy Publishing Corp.,1949.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The last space ship
+url: http://www.gutenberg.org/ebooks/69916
